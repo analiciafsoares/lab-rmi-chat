@@ -170,7 +170,23 @@ O servidor implementa o envio de mensagens para todos os clientes ativos, identi
 
 ---
 
-## 5. Conclusão
+## 5. Testes realizados:
+
+No terminal do Servidor:
+![Servidor](./imagens_execucao/servidor.png)
+
+No terminal do Cliente A:
+![Cliente A](./imagens_execucao/clienteA/1.png)
+![Cliente A](./imagens_execucao/clienteA/2.png)
+
+No terminal do Cliente B:
+![Cliente B](./imagens_execucao/clienteB/1.png)
+
+No terminal do Cliente C:
+![Cliente C](./imagens_execucao/clienteC/1.png)
+
+
+## 6. Conclusão
 
 Com a realização deste laboratório, foi possível compreender o funcionamento do RMI, incluindo a criação de interfaces remotas, registro de objetos no RMI Registry, comunicação cliente/servidor e comunicação direta entre clientes. O chat desenvolvido atende aos requisitos propostos no roteiro, demonstrando o uso prático de conceitos fundamentais de sistemas distribuídos.
 
